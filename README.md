@@ -1,1 +1,1 @@
-# SlingShot-123
+# SlingShot Game
